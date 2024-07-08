@@ -1,6 +1,6 @@
 public class palindrome {
     public static void main(String[] args) {
-        String original, reverse = ""; 
+        String original, reverse = "";
         Scanner in = new Scanner(System.in);
         System.out.println("Enter a string/number to check if it is a palindrome");
         original = in.nextLine();
